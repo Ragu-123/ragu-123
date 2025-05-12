@@ -19,6 +19,10 @@
   </a>
  <a href="https://ragu-123.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+ <a href="https://huggingface.co/ragunath-ravi">
+  <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
 </a>
 </p>
 

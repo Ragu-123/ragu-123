@@ -14,7 +14,7 @@
   <a href="mailto:ragunathravi73@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/ragunath-r-a2a580247">
+  <a href="https://www.linkedin.com/in/ragunath-r-a2a580247/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  <a href="https://ragu-123.github.io/portfolio/">

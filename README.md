@@ -164,7 +164,7 @@ timeline
   <a href="https://calendly.com/ragunath">
     <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/ragunath-r-a2a580247">
+  <a href="https://www.linkedin.com/in/ragunath-r-a2a580247/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ragunathravi73@gmail.com">

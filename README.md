@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Ragunath R 
+# Ragunath R 
 ### Aspiring AI Engineer
 [![Twitter Follow](https://img.shields.io/twitter/follow/ragunath?style=social)](https://twitter.com/ragunath)
 

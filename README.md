@@ -2,7 +2,10 @@
   
 # Ragunath R 
 ### Aspiring AI Engineer
-[![Twitter Follow](https://img.shields.io/twitter/follow/ragunath?style=social)](https://twitter.com/ragunath)
+ <a href="https://huggingface.co/ragunath-ravi">
+  <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aspiring%20AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Transforming%20Ideas%20into%20Intelligent%20Solutions&descAlignY=55&descAlign=50)
 
